@@ -14,12 +14,12 @@ Tutto quello che vedete è fatto in modo che sia tutto semplice e intuitivo.
 
 # Funzioni Javascript:
 
-counterBtn()
+*counterBtn()
 
-textContent()
+*textContent()
 
-parseFloat()
+*parseFloat()
 
-If Statement
+*If Statement
 
-style.backgroundColor
+*style.backgroundColor
